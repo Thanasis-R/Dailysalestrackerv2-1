@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Threat Modeling\\Discovery Research\\My Apps\\Version 2\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\Dailysalestrackerv2-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|c:\\threat modeling\\discovery research\\my apps\\version 2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|c:\\users\\administrator\\documents\\github\\dailysalestrackerv2-1\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|c:\\threat modeling\\discovery research\\my apps\\version 2\\models\\salesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|c:\\users\\administrator\\documents\\github\\dailysalestrackerv2-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|c:\\users\\administrator\\documents\\github\\dailysalestrackerv2-1\\models\\salesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|solutionrelative:models\\salesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|c:\\threat modeling\\discovery research\\my apps\\version 2\\models\\salesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|c:\\users\\administrator\\documents\\github\\dailysalestrackerv2-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|c:\\users\\administrator\\documents\\github\\dailysalestrackerv2-1\\models\\salesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|solutionrelative:models\\salesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|c:\\threat modeling\\discovery research\\my apps\\version 2\\models\\salesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|c:\\users\\administrator\\documents\\github\\dailysalestrackerv2-1\\models\\salesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|solutionrelative:models\\salesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|c:\\threat modeling\\discovery research\\my apps\\version 2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|c:\\users\\administrator\\documents\\github\\dailysalestrackerv2-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|c:\\threat modeling\\discovery research\\my apps\\version 2\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB9B1D2-684D-4121-899A-8199EAEC5FA4}|DailySalesTracker.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,92 +46,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SalesViewModel.cs",
-              "DocumentMoniker": "C:\\Threat Modeling\\Discovery Research\\My Apps\\Version 2\\Models\\SalesViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\SalesViewModel.cs",
-              "ToolTip": "C:\\Threat Modeling\\Discovery Research\\My Apps\\Version 2\\Models\\SalesViewModel.cs",
-              "RelativeToolTip": "Models\\SalesViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T11:20:47.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SalesData.cs",
-              "DocumentMoniker": "C:\\Threat Modeling\\Discovery Research\\My Apps\\Version 2\\Models\\SalesData.cs",
-              "RelativeDocumentMoniker": "Models\\SalesData.cs",
-              "ToolTip": "C:\\Threat Modeling\\Discovery Research\\My Apps\\Version 2\\Models\\SalesData.cs",
-              "RelativeToolTip": "Models\\SalesData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T11:20:42.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SalesDBContext.cs",
-              "DocumentMoniker": "C:\\Threat Modeling\\Discovery Research\\My Apps\\Version 2\\Models\\SalesDBContext.cs",
-              "RelativeDocumentMoniker": "Models\\SalesDBContext.cs",
-              "ToolTip": "C:\\Threat Modeling\\Discovery Research\\My Apps\\Version 2\\Models\\SalesDBContext.cs",
-              "RelativeToolTip": "Models\\SalesDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T11:20:38.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Threat Modeling\\Discovery Research\\My Apps\\Version 2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Threat Modeling\\Discovery Research\\My Apps\\Version 2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-29T11:20:33.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SalesController.cs",
-              "DocumentMoniker": "C:\\Threat Modeling\\Discovery Research\\My Apps\\Version 2\\Controllers\\SalesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
-              "ToolTip": "C:\\Threat Modeling\\Discovery Research\\My Apps\\Version 2\\Controllers\\SalesController.cs",
-              "RelativeToolTip": "Controllers\\SalesController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAMAkwBgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T11:20:18.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Threat Modeling\\Discovery Research\\My Apps\\Version 2\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Threat Modeling\\Discovery Research\\My Apps\\Version 2\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T10:04:57.29Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -136,6 +59,94 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Dailysalestrackerv2-1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Dailysalestrackerv2-1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:26:50.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesData.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Dailysalestrackerv2-1\\Models\\SalesData.cs",
+              "RelativeDocumentMoniker": "Models\\SalesData.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Dailysalestrackerv2-1\\Models\\SalesData.cs",
+              "RelativeToolTip": "Models\\SalesData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:20:42.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Dailysalestrackerv2-1\\Models\\SalesDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\SalesDBContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Dailysalestrackerv2-1\\Models\\SalesDBContext.cs",
+              "RelativeToolTip": "Models\\SalesDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:20:38.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Dailysalestrackerv2-1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Dailysalestrackerv2-1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T11:20:33.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Dailysalestrackerv2-1\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Dailysalestrackerv2-1\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Controllers\\SalesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:20:18.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Dailysalestrackerv2-1\\Models\\SalesViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\SalesViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Dailysalestrackerv2-1\\Models\\SalesViewModel.cs",
+              "RelativeToolTip": "Models\\SalesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:20:47.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Dailysalestrackerv2-1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Dailysalestrackerv2-1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:04:57.29Z",
+              "EditorCaption": ""
             }
           ]
         }
